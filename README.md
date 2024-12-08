@@ -1,5 +1,5 @@
 # HeartAttackPredictor
-**_Heart Attack Predictor_**
+
 
 ❤🩺  The Heart Attack Predictor is an innovative machine learning project designed to assess the risk of heart attacks through two advanced methodologies:  
 
