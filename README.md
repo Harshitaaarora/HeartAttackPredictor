@@ -9,23 +9,22 @@
 2. **Image-Based Prediction**  
    This stage employs Convolutional Neural Networks (CNNs) to analyze heartbeat images for early signs of heart attack risk. By extracting and interpreting visual patterns, the model brings a cutting-edge approach to cardiovascular analysis.  
 
-📌 **Key Features**  
+## 📌 **Key Features**  
 - Dual-Stage Analysis: Integrates traditional machine learning and deep learning to enhance prediction accuracy.  
 - Data-Driven Insights: Combines well-established health indicators with image-based diagnostics for comprehensive analysis.  
 - AI-Powered Predictions: Employs state-of-the-art regression techniques and CNNs for robust results.  
 
-💻 **Applications**  
+## 💻 **Applications**  
 The project serves as a powerful tool for early detection and prevention of heart attacks. It assists healthcare professionals by providing accurate, data-backed predictions and aids in visual diagnostics through image analysis.  
 
-🥇 Benefits  
+## 🥇 Benefits  
 - Facilitates early intervention by identifying high-risk individuals.  
 - Reduces dependency on expensive medical tests by using patient data and accessible imaging.  
 - Enhances reliability by merging attribute and image-based prediction models.  
 
-🛠 **Technical Stack**  
+## 🛠 **Technical Stack**  
 - Machine Learning: Logistic and Random Forest Regression for attribute-based prediction.  
 - Deep Learning: CNNs for analyzing heartbeat images.  
 - Programming: Implemented using Python with libraries like TensorFlow, scikit-learn, and Pandas.  
 
 This project exemplifies how machine learning and deep learning can transform healthcare by enabling accurate, scalable, and efficient diagnostic tools. It bridges the gap between traditional data analysis and modern AI-driven solutions, making it a valuable asset in the fight against cardiovascular diseases.  
-
